@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Newsify</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dont_have">Don\'t have an account? Sign Up</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_psw">Password</string>
+    <string name="login">Login</string>
+    <string name="or">Or</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account_sign_in">Already have an account? Sign in</string>
+    <string name="top_stories">Top Stories</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="books">Books</string>
+    <string name="logout">Logout?</string>
+    <string name="refresh">Refresh</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="dates_info">Dates Info</string>
+</resources>
