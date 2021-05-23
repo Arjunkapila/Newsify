@@ -58,7 +58,7 @@ public class RegisterFragment extends Fragment implements View.OnClickListener {
     public void onClick(View v) {
         switch (v.getId()) {
             case R.id.tvDontAccount:
-                NavHostFragment.findNavController(this).navigate(R.id.action_loginFragment_to_registerFragment);
+                NavHostFragment.findNavController(this).navigate(R.id.action_registerFragment_to_loginFragment);
                 break;
 
             case R.id.tvLogin:
